@@ -4,7 +4,7 @@ We're analyzing New York Citi Bike using visualization tools to explore the viab
 
 ## Resources
 - Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
-- Software: Python, Conda Jupyter Notebook, Tableau Public
+- Software: Python, Conda, Jupyter Notebook, Tableau Public
 
 ## Results
 
